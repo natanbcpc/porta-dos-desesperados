@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/porta-dos-desesperados/precache-manifest.5227050be5cccac54213bfe472512c39.js"
+  "/porta-dos-desesperados/precache-manifest.1fdf0aae5a6f20a2bf18c4d508b21bc2.js"
 );
 
 workbox.clientsClaim();
