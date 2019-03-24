@@ -5,14 +5,14 @@ class Simulador extends Component {
 
 	constructor(props) {
 		super(props);
-		this.state = {qtdSimulacoes: 100};
+		this.state = { qtdSimulacoes : 100 };
 	
 		this.alterarQtdSimulacoes = this.alterarQtdSimulacoes.bind(this);
 		this.simular = this.simular.bind(this);
 	}
 
 	alterarQtdSimulacoes(event) {
-		this.setState({qtdSimulacoes: event.target.value});
+		this.setState({ qtdSimulacoes : event.target.value });
 	}
 
 	simular() {
