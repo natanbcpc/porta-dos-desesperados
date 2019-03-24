@@ -2,7 +2,7 @@
   "name": "porta-dos-desesperados",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://natanbcpc.github.io/portadosdesesperados",
+  "homepage": "https://natanbcpc.github.io/porta-dos-desesperados",
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
